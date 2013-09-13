@@ -1,4 +1,6 @@
 *~
+.DS_Store
+Thumbs.db
 /phpunit.xml
 /phpBB/cache/*.html
 /phpBB/cache/*.php
