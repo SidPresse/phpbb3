@@ -2,6 +2,14 @@
 .DS_Store
 Thumbs.db
 /phpunit.xml
+/phpBB/store.htaccess
+/phpBB/images/avatars/upload/.htaccess
+/phpBB/files/.htaccess
+/phpBB/cache/.htaccess
+/phpBB/store/index.htm
+/phpBB/images/avatars/upload/index.htm
+/phpBB/files/index.htm
+/phpBB/cache/index.htm
 /phpBB/cache/*.html
 /phpBB/cache/*.php
 /phpBB/cache/queue.php.lock
