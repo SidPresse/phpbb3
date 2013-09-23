@@ -1,0 +1,3 @@
+[submodule "phpBB/styles/phpBBBoostrap"]
+	path = phpBB/styles/phpBBBoostrap
+	url = ../phpBBBoostrap.git
