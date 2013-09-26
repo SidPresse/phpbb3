@@ -2,10 +2,11 @@
 .DS_Store
 Thumbs.db
 /phpunit.xml
-/phpBB/store.htaccess
+/phpBB/store/.htaccess
 /phpBB/images/avatars/upload/.htaccess
 /phpBB/files/.htaccess
 /phpBB/cache/.htaccess
+/phpBB/store/.htaccess
 /phpBB/store/index.htm
 /phpBB/images/avatars/upload/index.htm
 /phpBB/files/index.htm
