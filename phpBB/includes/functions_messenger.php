@@ -276,7 +276,7 @@ class messenger
 		if (!isset($this->vars['U_BOARD']))
 		{
 			$this->assign_vars(array(
-				'U_BOARD'	=> generate_board_url(),
+				'U_BOARD'	=> generate_board_url().'/index.php',
 			));
 		}
 
